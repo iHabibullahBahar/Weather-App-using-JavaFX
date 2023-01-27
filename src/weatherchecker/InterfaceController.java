@@ -140,7 +140,7 @@ public class InterfaceController implements Initializable {
        warningLabel.setText("");
        searchCity();
     }
-    //This function will make capital to first letter of a word
+    //This function will make capital to first letter of a word.
     public static String capitalize(String message) {
     	
     	//Find the spaces, capitalize what's after.
